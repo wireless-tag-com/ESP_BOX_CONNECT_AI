@@ -34,8 +34,4 @@ git clone -b release/v5.3 --recursive https://github.com/espressif/esp-idf.git
 
 
 ## Note
-Please note that,
-1. To proceed with the demo, you need an **OpenAI API key**, and you must possess valid tokens to access the OpenAI server.
-2. To provide the WIFI credentials and the OpenAI secret key, please follow the on display prompts to proceed.
-3. Additionally, as a result of **OpenAI's restrictions**, this particular example cannot be supported within Mainland China.
-4. ChatGPT is a large language model that is unable to distinguish between Chinese Jian ti (简体) and Fan ti (繁體) characters. Due to the constraints of LVGL (Light and Versatile Graphics Library), this project currently only supports Jian Ti (simplified Chinese characters).
+使用demo 需要联系商务获取测试用的 productID 和 deviceID
