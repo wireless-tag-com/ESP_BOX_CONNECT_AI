@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "model.h": "c",
+        "functional": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "esp-bsp.h": "c",
+        "app_listenai.h": "c",
+        "app_uart.h": "c",
+        "app_openai.h": "c",
+        "bsp_board.h": "c",
+        "span": "c",
+        "ui.h": "c"
+    },
+    "idf.adapterTargetName": "esp32s3",
+    "idf.port": "/dev/ttyACM0",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ]
+}
