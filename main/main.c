@@ -241,7 +241,7 @@ static void app_mp3_play_task(void *args)
 static int response_len = 0;
 static char response_buffer[MAX_HTTP_OUTPUT_BUFFER] = {0};
 
-#define POST_URL "http://aihademo.llm.aiha.cloud/dsse/llm_allInOne/aihademo"
+#define POST_URL "http://productID.llm.aiha.cloud/dsse/llm_allInOne/deviceID"
 //使用前需将 productID 和 deviceID 替换为实际的值
 
 
