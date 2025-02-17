@@ -1,0 +1,24 @@
+dependencies:
+  button:
+    public: true
+    version: 3.5.0
+  esp_codec_dev:
+    public: true
+    version: ^1.0.3
+  esp_lcd_touch_tt21100:
+    version: ^1
+  espressif/esp_lvgl_port:
+    public: true
+    version: ^1
+  icm42670:
+    public: true
+    version: ^1
+  idf:
+    version: '>=4.4.5'
+  lvgl/lvgl:
+    version: ^8
+description: Board Support Package for ESP-BOX
+targets:
+- esp32s3
+url: https://github.com/espressif/esp-bsp/tree/master/bsp/esp-box
+version: 3.0.5
