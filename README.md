@@ -12,12 +12,12 @@ ESP-BOX是一个包含ESP32-S3微控制器的设备或系统。
 此实现的目的是使用户能够使用口语与聊天机器人进行交流。
 
 ## 使用的ESP_IDF版本
-* ESP-IDF version [release/v5.3](https://github.com/espressif/esp-idf/tree/release/v5.3)
+* ESP-IDF version [v5.3.1](https://github.com/espressif/esp-idf/tree/release/v5.3)
 
 ### 克隆对应版本的 ESP_IDF 
 
 ```
-git clone -b release/v5.3 --recursive https://github.com/espressif/esp-idf.git
+git clone -b v5.3.1 https://github.com/espressif/esp-idf.git
 ```
 
 ## **Hardware Required**
